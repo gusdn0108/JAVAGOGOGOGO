@@ -1,6 +1,8 @@
 # static final void main(String[] args) { 
 MyJava.start(); }
 
+![F54lfxMbsAAGssu](https://github.com/gusdn0108/JAVAGOGOGOGO/assets/96761523/60ff4a40-11d7-4b44-977d-af0335c496de)
+
 
 ## 섹션 1
 
