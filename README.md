@@ -1,11 +1,10 @@
-# static final void main(String[] args) { 
-MyJava.start(); 
-}
+static final void main(String[] args) { MyJava.start();}
 
 ![win](https://github.com/gusdn0108/JAVAGOGOGOGO/assets/96761523/ce6e1fb1-93cb-481a-9140-55ec79a51240)
 
 
 ## 섹션 1
+
 
 1. 환경 설정
 2. 윈도우에서 JDK 설치하기
@@ -15,6 +14,8 @@ MyJava.start();
 
 
 ## 섹션 2
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_01
 
 1. 자료형과 변수
 2. 나의 첫 프로그래밍, Hello World
@@ -31,6 +32,8 @@ MyJava.start();
 
 ## 섹션 3
 
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_02
+
 1. 산술 연산자 (전반전)
 2. 산술 연산자 (후반전)
 3. 대입 연산자
@@ -41,6 +44,9 @@ MyJava.start();
 
 
 ## 섹션 4
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_03
+
 1. 문자열
 2. 문자열 (전반전)
 3. 문자열 (후반전)
@@ -50,6 +56,8 @@ MyJava.start();
 
 
 ## 섹션 5
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_04
 
 1. If (전반전)
 2. If (후반전)
@@ -71,6 +79,8 @@ MyJava.start();
 
 ## 섹션 6
 
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_05
+
 1. 배열
 2. 배열 순회
 3. 다차원 배열 (전반전)
@@ -82,6 +92,8 @@ MyJava.start();
 
 
 ## 섹션 7 
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_06
 
 1. 메소드
 2. 전달값 (Parameter)
@@ -95,6 +107,8 @@ MyJava.start();
 
 
 ## 섹션 8
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_07
 
 1. 클래스
 2. 인스턴스 변수
@@ -121,6 +135,8 @@ MyJava.start();
 
 ## 섹션 9 
 
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_08
+
 1. 추상클래스와 인터페이스
 2. 추상 클래스
 3. 인터페이스 (전반전)
@@ -128,6 +144,8 @@ MyJava.start();
 5. 퀴즈 #8
 
 ## 섹션 10 
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_09
 
 1. 제네릭스
 2. 제네릭 클래스 (전반전)
@@ -147,6 +165,8 @@ MyJava.start();
 
 ## 섹션 11
 
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_10
+
 1. 익명클래스, 람다와 스트림
 2. 익명 클래스 (전반전)
 3. 익명 클래스 (후반전)
@@ -162,6 +182,8 @@ MyJava.start();
 
 ## 섹션 12
 
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_11
+
 1. 예외처리
 2. 예외처리 (Try Catch)
 3. Catch 구문
@@ -174,6 +196,8 @@ MyJava.start();
 
 ## 섹션 13
 
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_12
+
 1. 쓰레드
 2. Runnable
 3. Join
@@ -182,6 +206,8 @@ MyJava.start();
 6. 퀴즈 #12
 
 ## 섹션 14
+
+https://github.com/gusdn0108/JAVAGOGOGOGO/tree/main/src/chap_13
 
 1. 입출력과 파일
 2. 입력
